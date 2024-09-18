@@ -1,0 +1,7 @@
+apis:
+  external@latest:
+    root: 1.yaml
+    decorators:
+      remove-x-internal: on
+  internal@latest:
+    root: 1.yaml
